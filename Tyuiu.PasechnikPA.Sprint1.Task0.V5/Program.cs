@@ -38,6 +38,7 @@ namespace Tyuiu.PasechnikPA.Sprint1.Task0.V5
 
             Console.WriteLine(ds.Calculate());
 
+
             Console.ReadLine();
         }
     }
