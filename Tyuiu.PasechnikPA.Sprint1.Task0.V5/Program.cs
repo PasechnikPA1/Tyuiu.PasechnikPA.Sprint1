@@ -21,11 +21,11 @@ namespace Tyuiu.PasechnikPA.Sprint1.Task0.V5
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
             Console.WriteLine("* Задание #0                                                              *");
-            Console.WriteLine("* Варинант #0                                                             *");
+            Console.WriteLine("* Варинант #5                                                             *");
             Console.WriteLine("* Выполнил: Пасечник Павел Андреевич | АСОиУБ-23-2                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Написать программу, которая которая вычисляет выражение (1+2)*(1+9/3)   *");
+            Console.WriteLine("* Написать программу, которая  вычисляет выражение (1+2)*(1+9/3)          *");
             Console.WriteLine("* и печатает результат на экран.                                          *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
