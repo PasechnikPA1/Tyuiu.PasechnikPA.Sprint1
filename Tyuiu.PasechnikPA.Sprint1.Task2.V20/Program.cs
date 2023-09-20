@@ -33,6 +33,7 @@ namespace Tyuiu.PasechnikPA.Sprint1.Task2.V20
             Console.WriteLine("***************************************************************************");
 
             int value;
+
             int valueTwo;
 
             Console.WriteLine("Введите первое число  :");
