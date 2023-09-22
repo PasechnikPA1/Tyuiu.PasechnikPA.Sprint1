@@ -31,18 +31,14 @@ namespace Tyuiu.PasechnikPA.Sprint1.Task3.V13
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
-            var x = 123;
-            var p = 1;
-            Console.WriteLine("Число = " + x);
-            while (x > 0)
-            {
-                p *= x % 10;
-                x /= 10;
-            }
+            double number = 123;
+            
+            Console.WriteLine("Число = " + number);
+            
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("Произведение цифр заданного трехзначного числа = " +p);
+            Console.WriteLine("Произведение цифр заданного трехзначного числа = " + ds.MultiplyOfDigits(number));
             Console.ReadLine();
         }
     }

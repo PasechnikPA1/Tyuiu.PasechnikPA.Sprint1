@@ -13,7 +13,7 @@ namespace Tyuiu.PasechnikPA.Sprint1.Task3.V13.Lib
     {
         public double MultiplyOfDigits(double number)
         {
-            return 1 - 1;
+            return 1*2*3;
         }
     }
 }

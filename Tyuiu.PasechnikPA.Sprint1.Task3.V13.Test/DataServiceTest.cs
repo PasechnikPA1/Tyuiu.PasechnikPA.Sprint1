@@ -14,10 +14,9 @@ namespace Tyuiu.PasechnikPA.Sprint1.Task3.V13.Test
         {
             DataService ds = new DataService();
             double number = 123;
-            double p = 1;
-            double wait = 0;
-            var res = ds.MultiplyOfDigits( number);
-            Assert.AreEqual(0, res);
+            double wait = 6;
+            var res = ds.MultiplyOfDigits(number);
+            Assert.AreEqual(wait, res);
         }
     }
 }
