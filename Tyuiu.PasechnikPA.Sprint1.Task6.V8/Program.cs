@@ -43,7 +43,6 @@ namespace Tyuiu.PasechnikPA.Sprint1.Task6.V8
                 Console.WriteLine("***************************************************************************");
                 var v = str.Split(' ');
                 foreach (String c in v)
-
                     Console.WriteLine(c.PadRight(c.Length + 1, c[0]).Remove(0, 1));
                 Console.ReadKey();
                
