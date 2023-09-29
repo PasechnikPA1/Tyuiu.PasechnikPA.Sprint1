@@ -36,7 +36,6 @@ namespace Tyuiu.PasechnikPA.Sprint1.Task7.V13
             Console.WriteLine("Z = --------------");
             Console.WriteLine("      2    2");
             Console.WriteLine("     x-siny+12");
-
             double x, y,z;
 
             Console.WriteLine("Введите значение X: ");
